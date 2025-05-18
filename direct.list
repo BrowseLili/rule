@@ -2,6 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,fuxiangyu.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,m-team
