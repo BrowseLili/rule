@@ -2,6 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,mesu.apple.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,m-team
@@ -9,5 +10,3 @@ DOMAIN-KEYWORD,rousi
 DOMAIN-KEYWORD,hdfans
 DOMAIN-KEYWORD,ubits
 DOMAIN-KEYWORD,btschool
-DOMAIN-SUFFIX,mesu.apple.com
-
